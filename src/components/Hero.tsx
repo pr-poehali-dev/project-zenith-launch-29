@@ -35,10 +35,10 @@ export default function Hero() {
           Умный контроль уровня звука в наушниках. Защити слух — не жертвуя музыкой.
         </p>
         <a
-          href="#download"
+          href="/app"
           className="inline-block mt-8 bg-white text-black px-8 py-3 text-sm uppercase tracking-wide font-medium hover:bg-neutral-200 transition-colors duration-300"
         >
-          Скачать бесплатно
+          Открыть приложение
         </a>
       </div>
     </div>
